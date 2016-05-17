@@ -1,0 +1,115 @@
+/*
+* Amazium V1.3
+* Copyright 2012, Mike Ballan
+* www.amazium.co.uk
+*/
+
+/***** Screen 960px *****/
+
+
+
+/***** Screen Bigger than 960px *****/
+/*@media only screen and (min-width:1200px) {*/
+@media only screen and (min-width:1200px) {
+
+
+/***************************************************************************************
+* FONTES
+***************************************************************************************/
+
+
+/***************************************************************************************
+* HEADER
+***************************************************************************************/
+
+header .marca{
+    margin: 21px 0 0 0;
+}
+
+/***************************************************************************************
+* THUMB-BOX-PORTFOLIO
+***************************************************************************************/
+   .thumb-image{
+        height: 250px;
+    }
+    .ttl-box{
+        padding: 15% 10% 3% 10%;
+
+    }
+    .tipo-box{
+        font-size: 16px;
+        font-weight: 300;
+        color:#07989c;
+        display: block;
+        padding-bottom:  5%;
+    }
+     .bt-outline{
+        padding: 0 30px;
+        height: :40px;
+        font-size: 14px;
+         -webkit-border-radius: 20px;
+        border-radius: 20px;
+        line-height: 40px;
+        margin-bottom:15%;
+
+    }
+
+
+/***************************************************************************************
+* SECTION-PERFIL
+***************************************************************************************/
+.link-avatar{
+    margin-bottom: 30px;
+}
+
+.section-perfil .ttl-01{
+    text-align: right;
+    margin-bottom: 10px;
+        margin-top: 0px;
+}
+.ttl-meu-nome{
+    font-size: 30px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.section-perfil .lista-redes-sociais{
+    float: right;
+}
+
+
+.lista-redes-sociais li{
+    margin-bottom: 0px;
+}
+
+.lista-redes-sociais li a{
+font-size: 30px;
+}
+
+.lista-redes-sociais li:last-child a{
+    padding-right: 0;
+}
+
+/***************************************************************************************
+* PÃGINA PROJETO
+***************************************************************************************/
+
+
+
+
+
+/***************************************************************************************
+* FOOTER
+***************************************************************************************/
+
+.ico-contato-footer{
+    width: 144px;
+    margin: 0 auto;
+    display: block;
+    margin-top:-72px;
+}
+
+
+
+}
+ 

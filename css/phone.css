@@ -1,0 +1,735 @@
+/*
+* Amazium V1.3
+* Copyright 2012, Mike Ballan
+* www.amazium.co.uk
+*/
+
+
+/***** Phone (portrait 300px) *****/
+@media only screen and (max-width: 767px) {
+
+
+
+/***************************************************************************************
+* FONTES
+***************************************************************************************/
+
+.ttl-01{
+    font-size: 40px;
+}
+.ttl-02{
+     padding: 0 7%;
+}
+
+.section-perfil .txt{
+    padding: 0 7%;
+}
+
+.ttl-03{
+    font-size: 24px;
+    font-weight: 900;
+    margin-bottom: 30px;
+    line-height: 30px;
+}
+.txt-descricao-02{
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.txt-servicos{
+    line-height: 24px;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+.ttl-04{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+
+.ttl-perfil{
+    background: url('../img/phone/ttl-perfil.jpg') no-repeat center center;
+
+}
+
+
+/***************************************************************************************
+* BOTÃ•ES
+***************************************************************************************/
+
+.bt-verde{
+    font-size: 16px;
+}
+
+.bt-outline-big{
+        padding: 0 40px;
+        font-size: 14px;
+        border: 1px solid #07989c;
+         -webkit-border-radius: 20px;
+        border-radius: 20px;
+        line-height: 40px;
+    }
+
+/***************************************************************************************
+* SECTION-BANNER
+***************************************************************************************/
+section.banner{
+    height: 385px;
+}
+.fp-controlArrow{
+    display: none;
+}
+
+#slide1{
+background: url('../img/phone/banner/slide-01.jpg') no-repeat;
+-webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0 3%;
+}
+
+
+.ttl-banner{
+    font-size: 30px;
+}
+
+#fullpage .bt-verde {
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+}
+
+
+.ttl-banner{
+    color:#1ebfc3;
+    font-size: 26px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    padding: 0;
+}
+.txt-banner{
+    margin-bottom: 0;
+}
+
+.txt-banner p{
+    color:#fff;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+
+
+/***************************************************************************************
+* SECTION-PORTFOLIO
+***************************************************************************************/
+.section-portfolio{
+    padding: 50px 0 100px;
+}
+
+.section-portfolio .mediummargin{
+    margin-bottom: 0px;
+}
+
+
+/***************************************************************************************
+* THUMB-BOX-PORTFOLIO
+***************************************************************************************/
+    .thumb-box{
+         margin: 0px 20px 20px 20px;
+    }
+
+    .ttl-box{
+        padding: 50px 10% 3% 10%;
+
+    }
+     .tipo-box{
+        padding-bottom:  20px;
+    }
+     .bt-outline{
+        margin-bottom:50px;
+
+    }
+
+/***************************************************************************************
+* SECTION-PERFIL
+***************************************************************************************/
+
+.avatar{
+    width: 176px;
+    height: 218px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    margin-top: -215px;
+}
+.link-avatar{
+    width: auto;
+    height: 218px;
+   
+}
+
+.link-contato{
+    width: auto;
+    height: auto;
+    display: inline-block;
+    position: absolute;
+    top: 30px;
+    z-index: 1;
+    right: -40px;
+}
+
+.ico-contato{
+    width: 68px;
+    height: 68px;   
+}
+
+.perfil-destaque .ttl-06{
+    font-size:30px; 
+}
+
+/***************************************************************************************
+* SECTION-SERVICOS
+***************************************************************************************/
+.section-servicos{
+    padding: 90px 0 0 0;
+}
+
+.box-link-servico{
+     padding-top: 300px;
+     margin-top: 30px;
+}
+
+.box-servicos{
+    width: 100%;
+    height: auto;
+    margin-top: 0px;
+     float: none;
+     background-color: transparent;
+     box-shadow: none;
+     z-index: 1;
+     position: relative;
+     margin-top: -70px;
+     padding-bottom: 50px;
+}
+
+.box-image{
+    height: 300px;
+    top:0;
+    position: absolute;
+    z-index: 0;
+    margin-top: 0px;
+}
+
+.ico-servicos{
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+
+/***************************************************************************************
+* SECTION-BLOG
+***************************************************************************************/
+section.blog{
+
+}
+
+.ttl-blog{
+    height: 300px;
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+
+.ttl-blog .ttl{
+    font-size: 30px;
+}
+
+.ttl-blog .txt-descricao{
+    font-size: 18px;
+}
+
+section.blog .flexslider .slides li{
+    margin-right: 0px;
+}
+
+body .flex-direction-nav{
+    display: none;
+}
+
+section.blog .flexslider{
+    margin-bottom: 80px;
+}
+
+section.blog .flexslider .slides > li {
+    display: none;
+    -webkit-backface-visibility: none;
+}
+
+/***************************************************************************************
+* PÃGINA PROJETO
+***************************************************************************************/
+.ttl-page{
+        padding: 90px 0 90px 0;
+        height: auto;
+}
+
+.descricao-02-projeto {
+    margin-bottom: 60px;
+}
+
+.ttl-page .txt{
+    padding: 0;
+
+}
+
+
+/***************************************************************************************
+* SINGLE PROJETOS
+***************************************************************************************/
+
+.ttl-page.bg-azul .ttl-01{
+    color:#1ebfc3;
+}
+
+
+/***************************************************************************************
+* CONTEUDO PADRAO
+***************************************************************************************/
+.conteudo-padrao h1, 
+.conteudo-padrao h2, 
+.conteudo-padrao h3, 
+.conteudo-padrao h4{
+    color:#2c3e51;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: normal;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    display: block;
+}
+
+.conteudo-padrao h1 span, 
+.conteudo-padrao h2 span, 
+.conteudo-padrao h3 span, 
+.conteudo-padrao h4 span{
+    display: inline-block;
+    color:#1b999c;
+    font-size: 20px;
+}
+
+
+.conteudo-padrao h2{
+    font-size: 24px;
+    text-transform: none;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.conteudo-padrao h2:after{
+    margin-left: 0;
+    margin-top: 20px;
+
+}
+
+.conteudo-padrao p{
+    margin-bottom: 30px;
+}
+.conteudo-padrao blockquote p{
+    font-weight: 400;
+    font-size: 24px;
+    color: #2c3e51;
+    line-height: 38px;
+    margin-bottom: 50px;
+    border-left: 4px solid #1b999c;
+    padding-left: 30px; 
+     margin: 60px 0 60px 0;
+    text-align: left;
+}
+
+/***************************************************************************************
+* GRID PROJETOS
+***************************************************************************************/
+.grid-1{
+    width: 100%;
+    height: auto;
+}
+.grid-2{
+    width: 100%;
+    height: auto;
+    float: none;
+}
+
+
+
+/***************************************************************************************
+* BLOG
+***************************************************************************************/
+.conteudo-blog .thumb-box{
+    margin: 0;
+    padding-top: 230px;
+
+}
+
+.conteudo-blog .ttl-box{
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.conteudo-blog .txt{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+
+.conteudo-blog .thumb-image {
+    height: 200px;
+}
+
+/***************************************************************************************
+* POST
+***************************************************************************************/
+
+article.post p{
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.image-post{
+    padding: 50px 0;
+    margin-bottom: 30px;
+}
+.image-post .title{
+    font-size: 28px;
+    margin-bottom: 30px;
+    line-height: 35px;
+}
+
+.next-post{
+    position: relative;
+    height: auto;
+    padding: 50px 0 100px 0;
+    margin-bottom: -100px;
+}
+
+.next-post .title {
+    font-size: 25px;
+    line-height: 30px;
+}
+
+
+.comentarios{
+    padding-bottom: 50px;
+}
+
+
+/***************************************************************************************
+* FOOTER
+***************************************************************************************/
+footer {
+    margin-top: 100px;
+}
+
+footer label{
+   font-size: 18px;
+   width: 90%;
+   margin: 0 5%;
+}
+
+footer label i{
+    color:#1ebfc3;
+    margin-right: 10px;
+    margin-left: 2px;
+}
+
+.ttl-footer{
+    font-size: 40px;
+    font-weight: 900;
+    padding: 0;
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+
+.campos-obrigatorios{
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+footer .txt{
+    margin-bottom: 50px;
+    text-align: center;
+    color:#cee6ff;
+}
+.section-redes-sociais{
+    width: 100%;
+    height: 300px;
+    padding-top: 100px;
+}
+
+
+.section-redes-sociais p{
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 300;
+}
+.section-redes-sociais .lista-redes-sociais a{
+    padding: 0 15px;
+    color: #4dffcd;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+
+
+
+/***************************************************************************************
+* PERFIL
+***************************************************************************************/
+.perfil-inicio {
+    padding: 50px 0 0px 0;
+}
+
+.perfil-inicio .bloco-1,
+.perfil-inicio .bloco-2,
+.perfil-inicio .bloco-3{
+    float: none;
+    text-align: center;
+    padding: 0 5%;
+}
+
+.perfil-inicio .bloco-1{
+    width: 100%;
+    margin-right: 0;
+}
+.perfil-inicio .bloco-2{
+    width: 100%;
+    margin-right: 0;
+}
+
+.perfil-inicio .bloco-3{
+    width: 100%;
+}
+
+.perfil-inicio .lista-redes-sociais{
+    margin-bottom: 50px;
+}
+
+
+.ttl-06 {
+   text-align: center;
+   margin-bottom: 30px; 
+}
+
+
+
+.ttl-06:after,
+.ttl-07:after{
+    margin: 0 auto;
+    margin-top: 10px;
+
+}
+
+.perfil-destaque {
+    padding: 50px 0;
+}
+
+.perfil-destaque .intro .grid_6{
+    width: 100%;
+    margin: 0;
+     padding: 0 5%;
+    text-align: center;
+}
+
+.perfil-destaque .intro .bt-verde{
+    margin-bottom: 60px; 
+}
+
+.perfil-destaque .intro {
+    padding-bottom: 0px;
+}
+
+.thumbs-images-perfil{
+    padding-bottom: 50px;
+}
+
+.thumbs-images-perfil .grid_6 {
+    padding: 0;
+    text-align: center;
+}
+
+.ttl-07{
+    font-size: 24px;
+}
+
+.thumbs-images-perfil figure {
+    width: 100%;
+   height: auto;
+}
+
+.box-descricao{
+    padding: 40px 20px 40px 20px;
+}
+
+
+
+/***************************************************************************************
+* FORM
+***************************************************************************************/
+
+input,
+textarea,
+select {
+    width: 90%;
+    margin: 0 5%;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+textarea{
+    height: 210px;
+    line-height: 30px;
+    padding: 20px;
+}
+
+.bt-enviar{
+    padding:0;
+    width: 90%;
+    display: inline-block;
+}
+
+
+/***************************************************************************************
+* VALIDACAO
+***************************************************************************************/
+div.wpcf7-validation-errors, 
+div.wpcf7-mail-sent-ok, 
+div.wpcf7-mail-sent-ng {
+    font-size: 16px;
+}
+
+div.wpcf7-validation-errors:after, 
+div.wpcf7-mail-sent-ok:after, 
+div.wpcf7-mail-sent-ng:after{
+    font-size: 20px;
+}
+
+
+/***************************************************************************************
+* CLASSES GENÃ‰RICAS
+***************************************************************************************/
+
+.smallmargin{
+    margin-bottom: 25px;
+}
+
+.mediummargin{
+    margin-bottom: 50px;
+}
+
+.bigmargin{
+    margin-bottom: 50px;
+}
+
+
+
+
+}
+
+
+
+
+/***** Phone (landscape 420px) *****/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+
+/***************************************************************************************
+* THUMB-BOX-PORTFOLIO
+***************************************************************************************/
+
+
+.thumb-box{
+        margin: 0px 5px 10px 0px;
+        position: relative;
+        padding:25px 20px 25px 180px;
+        text-align: left;
+
+}
+
+    .thumb-image{
+        width: 150px;
+        height: 148px;
+        position: absolute;
+        left:0;
+        top:0;
+        overflow: hidden;
+
+    }
+    .thumb-image img{
+        width: auto;
+        height: 150px;
+        max-width: none;
+    }
+    .ttl-box{
+        font-size: 20px;
+        padding: 0;
+        margin-bottom:10px;
+
+    }
+    .tipo-box{
+        padding: 0;
+        margin-bottom:15px;
+    }
+
+
+
+/***************************************************************************************
+* SECTION-BLOG
+***************************************************************************************/
+section.blog .flexslider .slides li {
+    margin-right: 13px;
+}
+
+
+    section.blog .ttl-box{
+        text-transform: none;
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 20px;
+        display: block;
+        padding: 0 10% 3% 10%;
+
+    }
+
+
+/***************************************************************************************
+* BLOG
+***************************************************************************************/
+section.blog .thumb-blog{
+    text-align: left;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+section.blog.interna-blog .thumb-image {
+    width: 100%;
+}
+
+section.blog .thumb-blog .tag{
+    z-index: 1;
+    line-height: 22px;
+    height: auto;
+    font-size: 14px;
+    top:15px;
+    right:15px;
+}
+
+
+
+
+
+}
+ 

@@ -1,0 +1,437 @@
+/* 
+* Amazium V1.3
+* Copyright 2012, Mike Ballan
+* www.amazium.co.uk
+*/
+
+
+/***** Tablet (Smaller than 959px) *****/
+/*@media only screen and (min-width: 768px) and (max-width: 959px) {*/
+/*@media only screen and (min-width: 768px) and (max-width: 1199px) {
+
+    .thumb-image{
+        height: 200px;
+    }
+
+    .ttl-box{
+        padding: 50px 10% 3% 10%;
+
+    }
+     .tipo-box{
+        padding-bottom:  20px;
+    }
+     .bt-outline{
+        
+        padding: 0 30px;
+        height: :40px;
+        font-size: 14px;
+         -webkit-border-radius: 20px;
+        border-radius: 20px;
+        line-height: 40px;
+        margin-bottom:15%;
+    
+    }
+   
+}*/
+
+/***** Tablet (Smaller than 1199px) *****/
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+
+
+/***************************************************************************************
+* FONTES
+***************************************************************************************/
+
+
+/***************************************************************************************
+* HEADER
+***************************************************************************************/
+
+
+header .marca{
+    margin: 23px 0 0 0;
+}
+
+header .img-marca-desktop{
+    width: 258px;
+}
+
+
+.menu-mobile {
+    float: right;
+    color: #1b999c;
+    font-size: 43px;
+    background: none;
+    border: none;
+    outline: none;
+    line-height: 105px;
+    margin: 0 0 0 0;
+}
+
+.bt-fechar{
+    font-size: 43px;
+    margin: 25px 0 0 0;
+}
+
+.lista-menu-mobile li a{
+    font-size: 20px;
+    line-height: 70px;
+}
+
+/***************************************************************************************
+* SECTION-BANNER
+***************************************************************************************/
+
+.padding-txt-banner{
+    padding: 15% 5%;
+}
+
+.ttl-banner{
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.flexslider-banner .flex-direction-nav{
+    display: none;
+}
+
+/***************************************************************************************
+* SECTION-PORTFOLIO
+***************************************************************************************/
+.section-portfolio{
+    padding: 50px 0 100px;
+}
+
+.section-portfolio .mediummargin{
+    margin-bottom: 0px;
+}
+
+/***************************************************************************************
+* THUMB-BOX-PORTFOLIO
+***************************************************************************************/
+   .thumb-image{
+        height: 200px;
+    }
+
+    .ttl-box{
+        padding: 50px 10% 3% 10%;
+
+    }
+     .tipo-box{
+        padding-bottom:  20px;
+    }
+     .bt-outline{
+          padding: 0 30px;
+        height: :40px;
+        font-size: 14px;
+         -webkit-border-radius: 20px;
+        border-radius: 20px;
+        line-height: 40px;
+        margin-bottom:50px;
+    
+    }
+
+/***************************************************************************************
+* SECTION-PERFIL
+***************************************************************************************/
+
+
+.link-avatar{
+    margin-bottom: 30px;
+}
+
+.section-perfil .ttl-01{
+    text-align: right;
+        margin-bottom: 15px;
+        margin-top: 0px;
+}
+.ttl-meu-nome{
+    font-size: 30px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.section-perfil .lista-redes-sociais{
+    float: right;
+}
+
+.lista-redes-sociais li{
+    margin-bottom: 0px;   
+}
+
+
+.lista-redes-sociais li:last-child a{
+    padding-right: 0;
+}
+
+
+
+
+/***************************************************************************************
+* SECTION-SERVICOS
+***************************************************************************************/
+.section-servicos{
+    padding: 90px 0 0 0;
+}
+
+
+.box-link-servico{
+     padding-top: 300px;
+     margin-top: 30px;
+}
+
+.box-servicos{
+    width: 100%;
+    height: auto;
+    margin-top: 0px;
+     float: none;
+     background-color: transparent;
+     box-shadow: none; 
+      z-index: 1;
+     position: relative;
+     margin-top: -45px;
+    padding: 0 20% 50px 20%;
+}
+
+.box-image{
+    height: 300px;
+    top:0;
+    position: absolute;
+      z-index: 0;
+    margin-top: 0px;
+}
+
+
+/***************************************************************************************
+* SECTION-BLOG
+***************************************************************************************/
+section.blog{
+
+}
+
+.titulo-blog{
+    height: 350px;    
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+
+.titulo-blog .ttl{
+    font-size: 40px;
+}
+
+.titulo-blog .txt-descricao{
+    font-size: 18px;
+}
+
+section.blog .flexslider{
+    padding: 0 4%;
+}
+
+section.blog .flex-direction-nav{
+    display: none;
+}
+
+
+
+/***************************************************************************************
+* CONTEUDO PADRAO
+***************************************************************************************/
+
+.conteudo-padrao .grid_8.offset_2{
+    padding: 0px 10%;
+    margin: 0;
+    width: 100%;
+}
+
+/***************************************************************************************
+* PERFIL
+***************************************************************************************/
+.perfil-inicio{
+    padding-top: 50px;
+}
+.perfil-inicio .row {
+    padding: 0px 5%;
+    box-sizing: border-box;
+}
+
+.perfil-inicio .bloco-1,
+.perfil-inicio .bloco-2,
+.perfil-inicio .bloco-3{
+    float: none;
+    text-align: center;
+}
+
+.perfil-inicio .bloco-1{
+    width: 100%;
+    margin-right: 0;
+}
+.perfil-inicio .bloco-2{
+    width: 100%;
+    margin-right: 0;
+}
+
+.perfil-inicio .bloco-3{
+    width: 100%;
+}
+
+.perfil-inicio .lista-redes-sociais{
+    margin-bottom: 50px;
+}
+
+
+.ttl-06 {
+   text-align: center;
+   margin-bottom: 30px; 
+}
+
+
+
+.ttl-06:after{
+    margin: 0 auto;
+    margin-top: 10px;
+
+}
+
+
+.perfil-destaque .intro .grid_6{
+    width: 100%;
+    margin: 0;
+    padding: 0 5%;
+    text-align: center;
+}
+
+.perfil-destaque .intro .bt-verde{
+    margin-bottom: 60px; 
+}
+
+.perfil-destaque .intro {
+    padding-bottom: 50px;
+}
+
+.thumbs-images-perfil{
+    padding: 0 5%; 
+}
+
+.thumbs-images-perfil .grid_6 {
+    text-align: center;
+    padding: 0;
+    width: 48%;
+    margin: 0 1%;
+}
+
+.thumbs-images-perfil figure {
+    width: 100%;
+    height: auto;
+    background-color: #d4eaf2;
+    overflow: hidden;
+}
+
+
+.box-descricao{
+    width: 100%;
+    min-height: 390px
+}
+
+
+/***************************************************************************************
+* BLOG
+***************************************************************************************/
+
+.conteudo-blog .grid_6{
+    width: 100%;
+    margin: 0;
+    padding:0 10%;
+}
+
+
+.categorias-side-right{
+    font-size: 12px;
+}
+.categorias-side-right i {
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+
+
+/***************************************************************************************
+* POST
+***************************************************************************************/
+
+.image-post .grid_8.offset_2,
+.next-post .grid_8.offset_2{
+    width: 100%;
+    margin: 0;
+}
+
+
+.next-post{
+    margin-bottom: -100px;
+}
+
+/***************************************************************************************
+* FOOTER
+***************************************************************************************/
+footer{
+    margin-top: 100px;
+}
+
+.ttl-footer{
+    font-size: 40px;
+}
+
+.ico-contato-footer{
+    width: 130px;
+    margin: 0 auto; 
+    display: block;
+    margin-top:-65px; 
+}
+
+footer .form{
+     overflow: hidden;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.fluid_grid {
+    width: 96%;
+    margin:0 2%;
+}
+
+.half_grid{
+width: 46%;
+margin:0 2%;
+}
+
+.section-redes-sociais{
+    height: 350px;
+    padding-top: 130px;
+}
+
+.section-redes-sociais .lista-redes-sociais{
+    float: none;
+}
+
+.section-redes-sociais p{
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.section-redes-sociais .lista-redes-sociais a{
+    padding: 0 15px;
+    color: #4dffcd;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+.bt-enviar{
+    padding:0;
+    width: 60%;
+    display: inline-block;
+}
+
+}
+
+
+
+ 
