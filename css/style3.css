@@ -228,7 +228,7 @@ background-color:#4dffcd;
     line-height: 50px;
     display: inline-block;
     color:#fff;
-    background-color: #07989c;
+    background-color: #228CC6;
     -webkit-border-radius: 25px;
     border-radius: 25px;
     padding: 0 25px;
@@ -244,7 +244,7 @@ background-color:#4dffcd;
     line-height: 50px;
     display: inline-block;
     color:#fff;
-    background-color: #07989c;
+    background-color: #228CC6;
     -webkit-border-radius: 25px;
     border-radius: 25px;
     padding: 0 40px;
@@ -294,11 +294,11 @@ background-color:#4dffcd;
         display: inline-block;
         padding: 0 30px;
         font-size: 12px;
-        border: 1px solid #07989c;
+        border: 1px solid #228CC6;
          -webkit-border-radius: 15px;
         border-radius: 15px;
         line-height: 30px;
-        color:#07989c;
+        color:#228CC6;
         text-transform: uppercase;
          -webkit-transition:  0.1s; /* For Safari 3.1 to 6.0 */
          transition:  0.1s;
@@ -309,11 +309,11 @@ background-color:#4dffcd;
         display: inline-block;
         padding: 0 60px;
         font-size: 18px;
-        border: 1px solid #07989c;
+        border: 1px solid #228CC6;
          -webkit-border-radius: 15px;
         border-radius: 25px;
         line-height: 50px;
-        color:#07989c;
+        color:#228CC6;
         text-transform: uppercase;
          -webkit-transition:  0.1s; /* For Safari 3.1 to 6.0 */
          transition:  0.1s;
@@ -388,8 +388,8 @@ header .img-marca-desktop{
 
 .menu-desktop li a:hover
 {
-    color:#07989c;
-    border-bottom: 2px solid #07989c;
+    color:#228CC6;
+    border-bottom: 2px solid #228CC6;
 }
 
 .bt-fechar{
@@ -457,7 +457,7 @@ background-color: #2c3e51;
 .fp-controlArrow.fp-prev{
     border: none;
     font-size: 80px;
-    color:#07989c;
+    color:#228CC6;
     font-family: 'icomoon';
     width: 100px;
 }
@@ -553,7 +553,7 @@ img {
     .tipo-box{
         font-size: 16px;
         font-weight: 300;
-        color:#07989c;
+        color:#228CC6;
         display: block;
         padding: 0 5% 10% 5%;
             white-space: nowrap;
@@ -562,12 +562,12 @@ img {
 
 
 .thumb-box:hover{
-    border:1px solid #07989c;
+    border:1px solid #228CC6;
 }
 
 .thumb-box:hover .bt-outline,
 .bt-outline:hover {
-    background: #07989c;
+    background: #228CC6;
     color:#fff;
 
 }
@@ -647,7 +647,7 @@ img {
 
 .ttl-meu-nome{
     font-size: 24px;
-    color:#07989c;
+    color:#228CC6;
     text-align: center;
     line-height: auto;
     font-weight: 300;
@@ -665,7 +665,7 @@ display: inline-block;
 
 .lista-redes-sociais li a{
     padding:0 15px;
-    color:#07989c;
+    color:#228CC6;
     text-decoration: none;
     font-size: 30px;
 }
@@ -851,7 +851,7 @@ section.blog .flex-direction-nav a:before{
     display: inline-block;
     color: rgba(0, 0, 0, 1);
     text-shadow: none;
-    color:#07989c;
+    color:#228CC6;
 }
 
 section.blog .flex-direction-nav a.flex-prev:before {
@@ -1024,7 +1024,7 @@ background: #1ebfc3;
 
 .conteudo-padrao a
 {
-    color:#07989c;
+    color:#228CC6;
     font-weight: bold;
 }
 
@@ -1211,7 +1211,7 @@ background: #1ebfc3;
 }
 
 .conteudo-blog .thumb-box:hover .ttl-box{
-    color:#07989c;
+    color:#228CC6;
 }
 
 .box-side-right{
@@ -1244,7 +1244,7 @@ background: #1ebfc3;
 
 .bt-pesquisar{
     border:none;
-    background-color: #07989c;
+    background-color: #228CC6;
     color:#fff;
     width: 70px;
     height: 70px;
@@ -1363,7 +1363,7 @@ background: #1ebfc3;
     z-index: 0;
     text-align: center;
     padding: 100px 0 130px 0;
-    background: #07989c;
+    background: #228CC6;
     background-size: cover;
     background-position: center;
 }
@@ -1548,7 +1548,7 @@ background: #1ebfc3;
 }
 
 .perfil.icones .ttl-02{
-    color:#07989c;
+    color:#228CC6;
     margin-bottom: 40px;
 }
 
