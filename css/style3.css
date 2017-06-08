@@ -69,7 +69,6 @@ strong {
 }
 
 .ttl-01 {
-	text-transform: uppercase;
 	color: #2c3e51;
 	font-size: 50px;
 	font-weight: 900;
@@ -237,7 +236,7 @@ strong {
 	padding: 0 25px;
 	-webkit-transition: 0.1s;
 	/* For Safari 3.1 to 6.0 */
-	
+
 	transition: 0.1s;
 	border: none;
 	font-family: 'Source Sans Pro', sans-serif;
@@ -255,7 +254,7 @@ strong {
 	padding: 0 40px;
 	-webkit-transition: 0.1s;
 	/* For Safari 3.1 to 6.0 */
-	
+
 	transition: 0.1s;
 	border: none;
 	font-family: 'Source Sans Pro', sans-serif;
@@ -312,7 +311,7 @@ strong {
 	text-transform: uppercase;
 	-webkit-transition: 0.1s;
 	/* For Safari 3.1 to 6.0 */
-	
+
 	transition: 0.1s;
 }
 
@@ -330,7 +329,7 @@ strong {
 	text-transform: uppercase;
 	-webkit-transition: 0.1s;
 	/* For Safari 3.1 to 6.0 */
-	
+
 	transition: 0.1s;
 }
 /***************************************************************************************
@@ -342,7 +341,7 @@ header {
 	background-color: #fff;
 	border-bottom: 1px solid #e2e2e2;
 	/*box-shadow: rgba(0, 0, 0, 0.05) 1px 1px 5px 0px;*/
-	
+
 	height: 95px;
 	position: relative;
 	z-index: 1;
@@ -397,7 +396,7 @@ header .img-marca-desktop {
 	box-sizing: border-box;
 	-webkit-transition: 0.5s;
 	/* For Safari 3.1 to 6.0 */
-	
+
 	transition: 0.5s;
 }
 
@@ -519,7 +518,7 @@ img {
 
 .thumb-box {
 	/*width:100%;*/
-	
+
 	height: auto;
 	background: #fff;
 	display: block;
@@ -534,14 +533,14 @@ img {
 	border: 1px solid transparent;
 	-webkit-transition: 0.5s;
 	/* For Safari 3.1 to 6.0 */
-	
+
 	transition: 0.5s;
 }
 
 .thumb-image img {
 	width: 100%;
 	/*height: 200px;*/
-	
+
 	display: block;
 	background: #e8e8e8;
 	overflow: hidden;
@@ -550,7 +549,6 @@ img {
 .ttl-box {
 	font-size: 20px;
 	color: #2c3e51;
-	text-transform: uppercase;
 	font-weight: 900;
 	display: block;
 	padding: 10% 10% 3% 10%;
@@ -711,7 +709,7 @@ img {
 	box-shadow: rgba(0, 0, 0, 0.05) 1px 1px 3px 0px;
 	-webkit-transition: 0.5s;
 	/* For Safari 3.1 to 6.0 */
-	
+
 	transition: 0.5s;
 	display: block;
 	padding: 7% 5%;
@@ -987,31 +985,31 @@ section.blog .flex-control-paging li a.flex-active {
 	height: auto;
 	padding: 100px 0 50px;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#395b77+0,1ebfc3+100 */
-	
+
 	background: rgb(57, 91, 119);
 	/* Old browsers */
-	
+
 	background: -moz-linear-gradient(left, rgba(57, 91, 119, 1) 0%, rgba(30, 191, 195, 1) 100%);
 	/* FF3.6+ */
-	
+
 	background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(57, 91, 119, 1)), color-stop(100%, rgba(30, 191, 195, 1)));
 	/* Chrome,Safari4+ */
-	
+
 	background: -webkit-linear-gradient(left, rgba(57, 91, 119, 1) 0%, rgba(30, 191, 195, 1) 100%);
 	/* Chrome10+,Safari5.1+ */
-	
+
 	background: -o-linear-gradient(left, rgba(57, 91, 119, 1) 0%, rgba(30, 191, 195, 1) 100%);
 	/* Opera 11.10+ */
-	
+
 	background: -ms-linear-gradient(left, rgba(57, 91, 119, 1) 0%, rgba(30, 191, 195, 1) 100%);
 	/* IE10+ */
-	
+
 	background: linear-gradient(to right, rgba(57, 91, 119, 1) 0%, rgba(30, 191, 195, 1) 100%);
 	/* W3C */
-	
+
 	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#395b77', endColorstr='#1ebfc3', GradientType=1);
 	/* IE6-9 */
-	
+
 	margin-bottom: 70px;
 }
 /***************************************************************************************
@@ -1233,7 +1231,7 @@ section.blog .flex-control-paging li a.flex-active {
 	box-shadow: rgba(0, 0, 0, 0.05) 1px 1px 3px 0px;
 	-webkit-transition: 0.5s;
 	/* For Safari 3.1 to 6.0 */
-	
+
 	transition: 0.5s;
 	padding-bottom: 30px;
 }
@@ -1597,7 +1595,7 @@ footer {
 	background-color: #2c3e51;
 	position: absolute;
 	/* bottom: 0;*/
-	
+
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
