@@ -103,7 +103,7 @@ background: url('../img/phone/banner/slide-01.jpg') no-repeat;
 
 
 .ttl-banner{
-    color:#1ebfc3;
+    color:#228CC6;
     font-size: 26px;
     font-weight: 900;
     text-transform: uppercase;
@@ -290,7 +290,7 @@ section.blog .flexslider .slides > li {
 ***************************************************************************************/
 
 .ttl-page.bg-azul .ttl-01{
-    color:#1ebfc3;
+    color:#fff;
 }
 
 
@@ -440,7 +440,7 @@ footer label{
 }
 
 footer label i{
-    color:#1ebfc3;
+    color:#228CC6;
     margin-right: 10px;
     margin-left: 2px;
 }

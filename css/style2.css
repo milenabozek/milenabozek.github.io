@@ -191,11 +191,11 @@ strong {
 }
 
 .verde-claro {
-	color: #1ebfc3;
+	color: #228CC6;
 }
 
 .bg-verde-claro {
-	background-color: #1ebfc3;
+	background-color: #228CC6;
 }
 
 .verde-intensive {
@@ -277,7 +277,7 @@ strong {
 
 .menu-desktop li.bt-verde:hover,
 .bt-verde:hover {
-	background-color: #1ebfc3;
+	background-color: #228CC6;
 	color: #fff;
 	border: none;
 }
@@ -410,7 +410,7 @@ header .img-marca-desktop {
 	font-size: 32px;
 	background: none;
 	border: 0;
-	color: #1ebfc3;
+	color: #228CC6;
 	float: right;
 	margin: 23px 3% 0 0;
 }
@@ -483,7 +483,7 @@ header .img-marca-desktop {
 }
 
 .ttl-banner {
-	color: #1ebfc3;
+	color: #228CC6;
 	font-size: 50px;
 	font-weight: 900;
 	text-transform: uppercase;
@@ -802,7 +802,7 @@ section.blog .thumb-box {
 .tag {
 	height: 20px;
 	line-height: 20px;
-	background: #1ebfc3;
+	background: #228CC6;
 	font-weight: 900;
 	color: #fff;
 	text-transform: uppercase;
@@ -907,7 +907,7 @@ section.blog .flex-control-paging li a {
 }
 
 section.blog .flex-control-paging li a.flex-active {
-	background: #1ebfc3;
+	background: #228CC6;
 }
 /***************************************************************************************
 * PROJETOS
@@ -958,7 +958,7 @@ section.blog .flex-control-paging li a.flex-active {
 }
 
 .breadcrumb a:hover {
-	color: #1ebfc3;
+	color: #228CC6;
 	text-decoration: underline;
 }
 
@@ -985,7 +985,6 @@ section.blog .flex-control-paging li a.flex-active {
 	width: 100%;
 	height: auto;
 	padding: 100px 0 50px;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#395b77+0,1ebfc3+100 */
 
 	background: rgb(57, 91, 119);
 	/* Old browsers */
@@ -1008,7 +1007,7 @@ section.blog .flex-control-paging li a.flex-active {
 	background: linear-gradient(to right, rgba(57, 91, 119, 1) 0%, rgba(30, 191, 195, 1) 100%);
 	/* W3C */
 
-	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#395b77', endColorstr='#1ebfc3', GradientType=1);
+	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#395b77', endColorstr='#228CC6', GradientType=1);
 	/* IE6-9 */
 
 	margin-bottom: 70px;
@@ -1619,11 +1618,11 @@ footer label {
 }
 
 footer label span {
-	color: #1ebfc3;
+	color: #228CC6;
 }
 
 footer label i {
-	color: #1ebfc3;
+	color: #228CC6;
 	margin-right: 10px;
 	margin-left: 2px;
 }
@@ -1632,7 +1631,7 @@ footer label i {
 	font-size: 40px;
 	font-weight: 900;
 	text-transform: uppercase;
-	color: #1ebfc3;
+	color: #228CC6;
 	text-align: center;
 	margin-bottom: 15px;
 	margin-top: 10px;
