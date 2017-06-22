@@ -1,0 +1,17 @@
+/* humanstxt.org */
+/* TEAM */
+  UX Designer: Milena Spak Bozek
+  Contact: milenabozek@gmail.com
+  LinkedIn: https://www.linkedin.com/in/milena-spak-bozek-8178a470/
+  From: Paraná, Brazil
+
+/* THANKS */
+
+/* SITE */
+  Language: English, Portuguese
+  Doctype: HTML5
+
+/* TECHNOLOGY COLOPHON */
+  HTML5, CSS3, JavaScript, 
+  Bootstrap, Bootstrap Material
+  
