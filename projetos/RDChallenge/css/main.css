@@ -56,9 +56,9 @@ h3 {
 }
 
 p {
-  font-weight: 300;
+  font-weight: 400;
   font-size: 1em;
-  line-height: 1.4em;
+  line-height: 1.5em;
 }
 
 #ebook {
@@ -81,7 +81,7 @@ p.lista {
 p#legenda {
   font-weight: 300;
   color:#353535;
-  font-size: 0.8em;
+  font-size: 0.7em;
   line-height: 1.4em;
   margin-top: 30px;
 }
