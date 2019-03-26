@@ -564,9 +564,21 @@ img {
 }
 
 .tipo-box {
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 300;
-	color: #228CC6;
+	color: #808080;
+	display: block;
+	padding: 0 5% 10% 5%;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+
+
+}
+
+.tipo-box-2 {
+	font-size: 12px;
+	font-weight: 300;
+	color: #808080;
 	display: block;
 	padding: 0 5% 10% 5%;
 	white-space: nowrap;
