@@ -532,10 +532,13 @@ img {
 	margin: 0px 5px 30px 0px;
 	box-shadow: rgba(0, 0, 0, 0.05) 1px 1px 3px 0px;
 	border: 1px solid transparent;
-	-webkit-transition: 0.5s;
-	/* For Safari 3.1 to 6.0 */
 
 	transition: 0.5s;
+
+	/* filter: url(filters.svg#grayscale); Firefox 3.5+ */
+     filter: gray; /* IE5+ */
+     -webkit-filter: grayscale(1); /* Webkit Nightlies & Chrome Canary */
+     -webkit-transition: all .8s ease-in-out; 
 }
 
 .thumb-image img {
@@ -587,6 +590,8 @@ img {
 
 .thumb-box:hover {
 	border: 1px solid #228CC6;
+	filter: none;
+      -webkit-filter: grayscale(0);
 }
 
 .thumb-box:hover .bt-outline,
