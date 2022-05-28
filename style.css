@@ -15,7 +15,8 @@ body {
   font-size: 15px;
   line-height: 1.8;
   font-weight: 400;
-  color: #707070;
+  color: #222222;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -55,7 +56,7 @@ p {
   line-height: 40px;
   margin: 0 0 20px;
   padding: 0;
-  color: #707070;
+  color: #222222;
 }
 
 a {
